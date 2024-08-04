@@ -115,7 +115,7 @@
 }
 
 .servicio-txt{
-    padding-top: 100px;
+    padding-top: 110px;
     text-align: center;
 }
 
@@ -128,11 +128,11 @@ main section p{
  }
 
  .servicio {
-    padding-top: 100px;
+    padding-top: 130px;
     display: flex;
     box-sizing: border-box;
     flex-wrap: wrap;
-    gap: 30px;
+    gap: 35px;
     justify-content: center;
     text-align: center;
     min-height: 67vh;          
