@@ -11,5 +11,5 @@
     <p><strong>Propósito:</strong><br>
     Este proyecto es parte de mi práctica y aprendizaje en desarrollo web. A medida que avanzo en mi curso de Full Stack, seguiré subiendo más proyectos similares que demuestren mi progreso y habilidades.</p>
         <p><strong>Ver en línea:</strong><br>
-    <a href="https://raullexg.github.io/jurislex.github.io/" style="color: #3498DB; text-decoration: none;">Accede a la página aquí</a></p>
+    <a href="https://raulexg.github.io/jurislex.github.io/" style="color: #3498DB; text-decoration: none;">Accede a la página aquí</a></p>
 </div>
